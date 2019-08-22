@@ -1,11 +1,11 @@
 # Site settings
-author: Jeffrey Soto
-title: 
+author: Jeffrey Royce
+title: Blogmaster 3000
 header-img: img/home-bg.png
 email: jeffte.80@gmail.com
-copyright_name: Jeffrey Soto
+copyright_name: Jeffrey Royce
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A journey along side me as I become  a Data Scientist.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  anonymousodyssey19
