@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Module 5 Project: Classifaction "
-date:       2019-08-31 22:09:09 +0000
+title:      "Module 5 Project: Classification "
+date:       2019-08-31 18:09:10 -0400
 permalink:  module_5_project_classifaction
 ---
 
